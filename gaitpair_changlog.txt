@@ -1,0 +1,7 @@
+
+################### gait pair recognition 代码修改注释  ###############
+
+1.修改代码
+
+  convert_imageset.cpp
+  \caffe-master\tools\convert_imageset.cpp
